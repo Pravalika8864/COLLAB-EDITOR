@@ -28,3 +28,6 @@ changes are periodically saved to MongoDB without requiring users to click a “
 
 This project demonstrates real-world use cases of web sockets, database interactions, and component-based UI development.
 It also lays the foundation for future enhancements such as user authentication, document sharing permissions, chat features, and version control.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/7404491f-1eaa-4470-9ddf-17f2e387ad9a)
