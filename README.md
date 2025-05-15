@@ -1,7 +1,10 @@
-
-
-
-
+COMPANY: CODETECH IT SOLUTIONS
+NAME: Pravalika Lakkam
+INTERN ID:CT06DA407
+DOMAIN:FULL STACK DEVELOPMENT
+DURATION: 6 WEEKS
+MENTOR: NEELA SANTOSH
+                                  **TASK 3-REAL TIME COLLABORATIVE EDITOR**
 
 The Real-Time Collaborative Document Editor is a full-stack web application designed to provide users with a seamless, 
 Google Docs–like experience where multiple people can edit a shared document at the same time. Built using the MERN stack 
